@@ -1,2 +1,2 @@
 Merge conflict file created
-city:none
+city:chennai
